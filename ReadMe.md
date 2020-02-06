@@ -106,4 +106,4 @@ License
 MIT
 
 
-**Free Software, Yeah!!**
+**KlaiKlai, Yeah!!**
