@@ -1,0 +1,24 @@
+{
+  "name": "nodepg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^7.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "magallen-prob1": "node Problems\\problem1.js",
+    "magallen-prob2": "node Problems\\problem2.js",
+    "magallen-prob3": "node Problems\\problem3.js",
+    "magallen-prob4": "node Problems\\problem4.js",
+    "magallen-prob5": "node Problems\\problem5.js",
+    "magallen-prob6": "node Problems\\problem6.js",
+    "magallen-prob7": "node Problems\\problem7.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
