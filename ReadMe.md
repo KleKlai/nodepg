@@ -11,7 +11,7 @@ Requirements:
 
 # Installation
 
-```node
+```bash
 $ npm init -y
 $ npm i --save dotenv
 $ npm i pg
